@@ -1,4 +1,6 @@
-# squeeze
+# squeeze - 
+Page for training layout skills
+## Project features:
 - responsive
 - scroll background image
 - animation
